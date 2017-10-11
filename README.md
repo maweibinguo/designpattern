@@ -1,7 +1,7 @@
 # designpattern
 阅读大话设计模式笔记
 
-##设计模式的几个原则
+## 设计模式的几个原则
 1、类之间的关系
 
 2、简单工厂
@@ -25,3 +25,10 @@
 7、DIP	赖倒置原则		Dependency Inversion Principle	
 
 8、LKP	最少知识原则	Least Knowledge Princip
+
+## composer组件
+
+** Seldaek/monolog 日志组件 **
+1、组件的uml类图
+2、组件的设计思想
+3、组件的用法
