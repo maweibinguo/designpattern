@@ -28,7 +28,4 @@
 
 ## composer组件
 
-** Seldaek/monolog 日志组件 **
-1、组件的uml类图
-2、组件的设计思想
-3、组件的用法
+Seldaek/monolog 日志组件
