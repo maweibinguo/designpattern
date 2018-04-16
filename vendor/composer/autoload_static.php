@@ -34,6 +34,11 @@ class ComposerStaticInit5ecbbd0956cb79f078d33831802cafbc
         array (
             'cebe\\markdown\\' => 14,
         ),
+        'Z' => 
+        array (
+            'Zend\\Stdlib\\' => 12,
+            'Zend\\Config\\' => 12,
+        ),
         'W' => 
         array (
             'Webmozart\\Assert\\' => 17,
@@ -52,6 +57,7 @@ class ComposerStaticInit5ecbbd0956cb79f078d33831802cafbc
         'P' => 
         array (
             'Psr\\Http\\Message\\' => 17,
+            'Psr\\Container\\' => 14,
         ),
         'G' => 
         array (
@@ -113,6 +119,14 @@ class ComposerStaticInit5ecbbd0956cb79f078d33831802cafbc
         array (
             0 => __DIR__ . '/..' . '/cebe/markdown',
         ),
+        'Zend\\Stdlib\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zendframework/zend-stdlib/src',
+        ),
+        'Zend\\Config\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/zendframework/zend-config/src',
+        ),
         'Webmozart\\Assert\\' => 
         array (
             0 => __DIR__ . '/..' . '/webmozart/assert/src',
@@ -152,6 +166,10 @@ class ComposerStaticInit5ecbbd0956cb79f078d33831802cafbc
         'Psr\\Http\\Message\\' => 
         array (
             0 => __DIR__ . '/..' . '/psr/http-message/src',
+        ),
+        'Psr\\Container\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/psr/container/src',
         ),
         'GuzzleHttp\\Psr7\\' => 
         array (
